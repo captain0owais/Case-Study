@@ -1,0 +1,50 @@
+ body{
+    background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
+    font-family: 'Hubballi', cursive;
+    }
+
+  #heading
+    {
+      border-radius: 10px;
+      width: 100%;
+      margin: 0px;
+      font-size: xx-large;
+      font-weight: bold;
+    }
+    .heading_div
+    {
+      background: white ; 
+      font-weight: 500;
+      border-radius: 20px; 
+      color: black;
+      box-shadow:1px 1px 5px blue;
+      float: none;
+      margin-top: 15px;
+      font-size: x-large;
+    }
+    .heading_div2
+    {
+      font-size: 18px ;
+    }
+    .result_para_tag
+    {
+      box-shadow:1px 1px 10px rgba(0, 0, 255, 0.493);
+      font-size: 20px;
+      border-radius: 10px;
+      
+    }
+  
+    .copy_right_footer
+    {
+      position: fixed;
+      background-color: ghostwhite;
+      color: black;
+      font-size: large;
+      width:100%;
+      bottom: 0;
+      text-align: center;
+      line-height: 3;
+      font-weight: bolder;
+      text-shadow: 0 0 3px #FF0000;
+    }
+   
